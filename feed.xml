@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Srikrishnan Research Group @ Cornell BEE</title>
+    <title>Anderson Research Group @ Cornell BEE</title>
     <description>This is the website for the Srikrishnan Research Group at Cornell BEE. We study the impact of dynamic environmental hazards, particularly those intensified by climate change, on infrastructure performance and management. We are interested in a broad range of applications.
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Dec 2022 20:32:40 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Dec 2022 20:32:40 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Dec 2022 20:34:03 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Dec 2022 20:34:03 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
