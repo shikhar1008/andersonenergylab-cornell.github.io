@@ -1,16 +1,16 @@
 # Site settings
-title: Srikrishnan Research Group @ Cornell BEE
-email: vs498@cornell.edu
+title: Anderson Research Group @ Cornell BEE
+email: cla28@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the website for the Srikrishnan Research Group at Cornell BEE. We study the impact of dynamic environmental hazards, particularly those intensified by climate change, on infrastructure performance and management. We are interested in a broad range of applications.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://andersonenergylab-cornell.github.io" # the base hostname & protocol for your site
-github:  vsrikrish
-office: 318 Riley-Robb Hall
+github:  andersonenergylab-cornell
+office: 316 Riley-Robb Hall
 department: Biological & Environmental Engineering
 city: Ithaca, NY
 zip: 14853-5701
-labguide: https://srikrishnan-lab.github.io/lab-manual
+
 
 # Build settings
 markdown: kramdown
@@ -26,8 +26,8 @@ logo_cornell: /assets/img/logos/cornell-reduced-red.svg
 # settings for deploy rake task
 safe: False
 lsi: False
-username: srikrishnan-lab
-repo: srikrishnan-lab.github.io
+username: andersonenergylab-cornell
+repo: andersonenergylab-cornell.github.io
 branch: master
 destination: _site
 production_url: https://andersonenergylab-cornell.github.io
