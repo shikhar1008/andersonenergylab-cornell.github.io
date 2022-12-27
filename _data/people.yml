@@ -21,7 +21,7 @@
   title: Ms. # Mr., Mrs., Ms., Dr., etc
   anchor: ml2589 # allows you to link to a specific person
   position: Ph.D. Student # your role within the group
-  photo:  # your photo in /assets/img/members/
+  photo:  VivienneLiu.jpeg # your photo in /assets/img/members/
   website:  https://vivienne16.github.io/personal-website/ # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
   email: ml2589@cornell.edu
