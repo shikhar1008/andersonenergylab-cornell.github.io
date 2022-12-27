@@ -1,6 +1,6 @@
-Srikrishnan Research Group Website
+Anderson Research Group Website
 ============
 
-This is the website for the Srikrishnan Research Group, in Cornell's Department of Biological & Environmental Engineering. We study the management of dynamic environmental hazards, particularly those resulting from climate change.
+This is the website for the Anderson Research Team at Cornell University. We are engineers and applied mathematicians that study decarbonization of energy systems. 
 
-The base code is forked from [Steven V. Miller](http://svmiller.com). Some code and layout ideas were adapted from the [Doss-Gollin Lab website](https://dossgollin-lab.github.io).
+The site is forked from [Vivek Srikrishnan's Research Group] (https://viveks.bee.cornell.edu) originally forked from [Steven V. Miller](http://svmiller.com). 
