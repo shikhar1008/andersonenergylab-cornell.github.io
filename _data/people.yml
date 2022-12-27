@@ -33,22 +33,6 @@
   bio: # format with Markdown
    Vivienne is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems.
 
-- first_name: Chloe # your first name
-  last_name: Darnell # your last name
-  title: # Mr., Mrs., Ms., Dr., etc
-  anchor: cdarnell  # allows you to link to a specific person
-  position: M.S. Student # your role within the group
-  photo: cdarnell.jpg # your photo in /assets/img/members/
-  website:  # URL for your personal website
-  cv:  # URL for your CV -- optional, but recommended
-  email: ced227@cornell.edu
-  github: darnellchl # your github user name
-  scholar:  # your google scholar id
-  orcid:  # your orcid id
-  researchgate:  # your researchgate profile name
-  pronouns: she/her/hers # your preferred pronouns
-  bio: Chloe Darnell is an M.S. student in the Department of Biological and Environmental Engineering at Cornell. She graduated in May 2021 with a B.S. in Civil Engineering from the University of Kentucky. Chloe's research interests involve the integration of renewable energy sources into our energy systems, aiming to create a path toward decarbonization using an interdisciplinary approach. Outside of research, Chloe enjoys traveling, being around animals, and taking care of her ever-increasing collection of plants.
-
 - first_name: Katerina # your first name
   last_name: Tang # your last name
   title: # Mr., Mrs., Ms., Dr., etc
