@@ -6,7 +6,7 @@
   anchor: cla28 # allows you to link to a specific person
   position: Principal Investigator # your role within the group
   photo: LindsayAnderson.jpg # your photo in /assets/img/members/
-  website: https://anderson.bee.cornell.edu # URL for your personal website
+  website: https://andersonenergylab-cornell.github.io # URL for your personal website
   cv: https://andersonenergylab-cornell.github.io/assets/pdf/LindsayAndersonCV_Jan2023.pdf # URL for your CV -- optional, but recommended
   email: cla28@cornell.edu
   github: cla28 # your github user name
@@ -16,22 +16,22 @@
   pronouns: she/her/hers # your preferred pronouns
   bio: Catherine (Lindsay) Anderson is a Professor in the Department of Biological & Environmental Engineering at Cornell. She works on energy system decarbonization, at the interface of systems engineering, electric power systems, applied optimization and decision science. Dr. Anderson received a B.Sc.(Engineering) and an M.S. in Environmental Engineering from University of Guelph (Canada) and Ph.D in Applied Mathematics from the University of Western Ontario (Canada)
 
-- first_name: Parin # your first name
-  last_name: Bhaduri # your last name
-  title: Mr. # Mr., Mrs., Ms., Dr., etc
-  anchor: pbhaduri  # allows you to link to a specific person
+- first_name: Mengwei (Vivienne) # your first name
+  last_name: Liu # your last name
+  title: Ms. # Mr., Mrs., Ms., Dr., etc
+  anchor: ml2589 # allows you to link to a specific person
   position: Ph.D. Student # your role within the group
-  photo: pbhaduri.jpg # your photo in /assets/img/members/
-  website:  # URL for your personal website
+  photo:  # your photo in /assets/img/members/
+  website:  https://vivienne16.github.io/personal-website/ # URL for your personal website
   cv:  # URL for your CV -- optional, but recommended
-  email: pbb62@cornell.edu
-  github: parinbhaduri # your github user name
-  scholar:  # your google scholar id
+  email: ml2589@cornell.edu
+  github: vivienne16 # your github user name
+  scholar:  HdTSkG8AAAAJ&hl # your google scholar id
   orcid:  # your orcid id
   researchgate:  # your researchgate profile name
-  pronouns: he/him/his # your preferred pronouns
+  pronouns: she/her/hers # your preferred pronouns
   bio: # format with Markdown
-    Parin Bhaduri is a first-year Ph.D. student in the Department of Biological and Environmental Engineering at Cornell. He graduated with a B.S from the Johns Hopkins University in Environmental Health and Engineering and Public Health Studies in the Spring of 2021. Parin is interested in the utilization of systems-level modeling to inform decision makers on climate adaptation, particularly on issues surrounding climate justice and equity. In his free time, Parin enjoys baking, photography, and playing soccer.   
+   Vivienne is a Ph.D student in Systems Engineering. Prior to joining Cornell, she got her Bachelor’s degree in Electrical and Information Engineering from Tianjin University and Master’s degree in Electrical Engineering from Stanford University. She is broadly interested in the area of control and optimization of smart grids with renewable energy integration and her current work focuses on using multi-objective simulation-based optimization methods to help inform policies on the management of microgrids energy systems.
 
 - first_name: Chloe # your first name
   last_name: Darnell # your last name
