@@ -1,20 +1,20 @@
 # Information about lab members goes here. HTML code can be included.
 
-- first_name: Vivek # your first name
-  last_name: Srikrishnan # your last name
-  title: Dr. # Mr., Mrs., Ms., Dr., etc
-  anchor: vsrikrish # allows you to link to a specific person
+- first_name: Lindsay # your first name
+  last_name: Anderson # your last name
+  title: Prof. # Mr., Mrs., Ms., Dr., etc
+  anchor: cla28 # allows you to link to a specific person
   position: Principal Investigator # your role within the group
-  photo: vsrikrish.png # your photo in /assets/img/members/
-  website: https://viveks.me # URL for your personal website
-  cv: https://viveks.me/assets/pdf/Srikrishnan-CV.pdf # URL for your CV -- optional, but recommended
-  email: vs498@cornell.edu
-  github: vsrikrish # your github user name
-  scholar: CY_JxugAAAAJ # your google scholar id
-  orcid: 0000-0003-0049-3805 # your orcid id
-  researchgate: Vivek_Srikrishnan # your researchgate profile name
-  pronouns: he/him/his # your preferred pronouns
-  bio: Vivek Srikrishnan is an Assistant Professor in the Department of Biological & Environmental Engineering at Cornell. He works on climate risk management, at the interface of systems engineering, climate dynamics, economics, data science, and decision science. Dr. Srikrishnan received an M.S. and Ph.D in Energy & Mineral Engineering from Penn State and a B.S. in Mathematics and a B.A. in Philosophy from the University of Illinois at Urbana-Champaign. He also [lost on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=5223).
+  photo: LindsayAnderson.jpg # your photo in /assets/img/members/
+  website: https://anderson.bee.cornell.edu # URL for your personal website
+  cv: https://andersonenergylab-cornell.github.io/assets/pdf/LindsayAndersonCV_Jan2023.pdf # URL for your CV -- optional, but recommended
+  email: cla28@cornell.edu
+  github: cla28 # your github user name
+  scholar: Y0HIltkAAAAJ&hl# your google scholar id
+  orcid: 0000-0002-5148-0118 # your orcid id
+  researchgate: Catherine-Anderson-6 # your researchgate profile name
+  pronouns: she/her/hers # your preferred pronouns
+  bio: Catherine (Lindsay) Anderson is a Professor in the Department of Biological & Environmental Engineering at Cornell. She works on energy system decarbonization, at the interface of systems engineering, electric power systems, applied optimization and decision science. Dr. Anderson received a B.Sc.(Engineering) and an M.S. in Environmental Engineering from University of Guelph (Canada) and Ph.D in Applied Mathematics from the University of Western Ontario (Canada)
 
 - first_name: Parin # your first name
   last_name: Bhaduri # your last name
