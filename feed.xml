@@ -6,9 +6,25 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2022 01:07:37 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2022 01:07:37 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2022 20:09:56 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2022 20:09:56 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Designing Robust Networks of Coupled Phase-Oscillators with Applications to the High Voltage Electric Grid</title>
+        <description>&lt;p&gt;Shriya’s recent article explores new methods for networks that are robust to oscillations that may arise from renewable energy resources. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919347&quot;&gt;IEEE Transactions on Control of Network Systems&lt;/a&gt;. Congrats to Shriya and collaborators on a job well done!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>papers</category>
+        
+      </item>
     
       <item>
         <title>Uncertainty Book Released</title>
