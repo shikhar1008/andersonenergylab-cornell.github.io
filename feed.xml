@@ -6,12 +6,12 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2022 20:09:56 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2022 20:09:56 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2022 20:18:47 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2022 20:18:47 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
-        <title>Designing Robust Networks of Coupled Phase-Oscillators with Applications to the High Voltage Electric Grid</title>
+        <title>New Article!</title>
         <description>&lt;p&gt;Shriya’s recent article explores new methods for networks that are robust to oscillations that may arise from renewable energy resources. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919347&quot;&gt;IEEE Transactions on Control of Network Systems&lt;/a&gt;. Congrats to Shriya and collaborators on a job well done!&lt;/p&gt;
 
 </description>
@@ -27,25 +27,17 @@
       </item>
     
       <item>
-        <title>Uncertainty Book Released</title>
-        <description>&lt;p&gt;We have just released a new e-book, “Addressing Uncertainty in MultiSector Dynamics Research,” which can be accessed at &lt;a href=&quot;https://immm-sfa.github.io/msd_uncertainty_ebook/&quot;&gt;https://immm-sfa.github.io/msd_uncertainty_ebook/&lt;/a&gt;. This book is open-access (we recommend the HTML version, but a PDF version is available as well) and &lt;a href=&quot;https://github.com/IMMM-SFA/msd_uncertainty_ebook&quot;&gt;open source&lt;/a&gt;, and we intend for it to be a living document, evolving as new problems, perspectives, and techniques emerge.&lt;/p&gt;
-
-&lt;p&gt;This book was written in collaboration with several members of the &lt;a href=&quot;https://reed.cee.cornell.edu/&quot;&gt;Reed research group&lt;/a&gt; at Cornell and the &lt;a href=&quot;https://keller-lab.github.io/&quot;&gt;Keller Lab&lt;/a&gt; (formerly at Penn State, now at Dartmouth) as well as team members from the &lt;a href=&quot;https://im3.pnnl.gov/&quot;&gt;IM3 MultiSector Dynamics project&lt;/a&gt; (which also funded and supported the book’s development).&lt;/p&gt;
-
-&lt;p&gt;A plain language summary of the book is provided below.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The presence of uncertainty challenges research across all scientific disciplines that study natural and human systems. With improvements in our understanding of interactions between these systems and increased efforts for science that bridges across singular disciplines, tackling uncertainty is both methodologically and practically very difficult. Whereas several published methods and guides already exist in the literature, there is no published guidance on how multidisciplinary research teams working on common complex problems should characterize or quantify uncertainty. The primary aim of this ebook is to provide initial guidance to teams facing these challenges and serve as a continually updated resource for researchers across disciplines that are interested in uncertainty characterization.&lt;/p&gt;
-&lt;/blockquote&gt;
+        <title>Welcome back to the lab Shikhar!</title>
+        <description>&lt;p&gt;After a few years at Avangrid, we are excited to welcome Shikhar Prakash back to the team as a Ph.D. student. Welcome back Shikhar!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2022/03/uc-book-release/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/03/uc-book-release/</guid>
+        <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2022/08/Shikarreturns/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/08/Shikarreturns/</guid>
         
         <category>news</category>
         
         
-        <category>papers</category>
+        <category>Announcements</category>
         
       </item>
     
