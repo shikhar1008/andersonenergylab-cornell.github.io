@@ -6,13 +6,13 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2022 20:18:47 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2022 20:18:47 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Dec 2022 15:27:43 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Dec 2022 15:27:43 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
-        <title>New Article!</title>
-        <description>&lt;p&gt;Shriya’s recent article explores new methods for networks that are robust to oscillations that may arise from renewable energy resources. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919347&quot;&gt;IEEE Transactions on Control of Network Systems&lt;/a&gt;. Congrats to Shriya and collaborators on a job well done!&lt;/p&gt;
+        <title>New paper on robust networks</title>
+        <description>&lt;p&gt;Shriya Nagpal’s recent article explores new methods for designing networks that are robust to oscillations that may arise from renewable energy resources. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9919347&quot;&gt;IEEE Transactions on Control of Network Systems&lt;/a&gt;. Congrats to Shriya and collaborators &lt;a href=&quot;https://nairgokul.github.io&quot;&gt;Gokul Nair&lt;/a&gt; and &lt;a href=&quot;https://sites.coecis.cornell.edu/parise/&quot;&gt;Prof. Francesca Parise&lt;/a&gt; on a job well done!&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
@@ -42,138 +42,6 @@
       </item>
     
       <item>
-        <title>Postdoctoral Scholar Position Open</title>
-        <description>&lt;p&gt;Our group at Cornell is &lt;a href=&quot;https://academicjobsonline.org/ajo/jobs/21204&quot;&gt;looking to hire a postdoctoral scholar&lt;/a&gt; to co-lead work on uncertainty characterization for an agent-based model of human-system responses to dynamic flood risk. The position is part of the Department of Energy-funded &lt;a href=&quot;https://icom.pnnl.gov/&quot;&gt;Integrated Coastal Modeling (ICoM) project&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The successful candidate will play an active role in shaping the specifics of the research and will have broad opportunities to collaborate with researchers from other universities and national laboratories. Expected qualifications include:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A Ph.D. in a discipline relevant to uncertainty characterization and quantification for complex systems, such as operations research, statistics, applied mathematics, or environmental engineering; and&lt;/li&gt;
-  &lt;li&gt;Programming skills in at least one major scientific computing language, such as Python, Julia, R, or C++;&lt;/li&gt;
-  &lt;li&gt;An interest in applying quantitative methods to understanding the impacts of climate change on human systems.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Experience with coupled natural-human systems modeling and statistical techniques is preferred, though not required. The successful candidate will be expected to take on a leadership role in our group and help co-mentor undergraduates and graduate students. The position is available immediately, though the starting date can be flexible.&lt;/p&gt;
-
-&lt;p&gt;For more information on our lab group, please consult our &lt;a href=&quot;https://viveks.bee.cornell.edu/lab-manual/&quot;&gt;Lab Manual&lt;/a&gt;. For any additional information on the project (or just to reach out!), feel free to email Vivek at &lt;a href=&quot;mailto:viveks@cornell.edu&quot;&gt;viveks@cornell.edu&lt;/a&gt;. Please apply at &lt;a href=&quot;https://academicjobsonline.org/ajo/jobs/21204&quot;&gt;Academic Jobs Online&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2022/02/icom-postdoc-ad/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/02/icom-postdoc-ad/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Openings</category>
-        
-      </item>
-    
-      <item>
-        <title>MultiSector Dynamics Vision Report Released</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://multisectordynamics.org/&quot;&gt;MultiSector Dynamics&lt;/a&gt; (MSD) Scientific Steering Group and Facilitation Team has released its &lt;a href=&quot;https://doi.org/10.5281/zenodo.5825890&quot;&gt;2030 vision report&lt;/a&gt;, co-authored by Vivek! MSD is an emerging transdisciplinary research field which seeks to advance our understanding of human-Earth system interactions and their impacts on our social, economic, and engineered systems. This Vision Report is a part of the development and organization of an MSD Community of Practice, and discusses key definitions and concepts as well. A key emphasis is highlighting scientific research opportunities and approaches and needs for improving the MSD community’s research capacity.&lt;/p&gt;
-
-&lt;p&gt;There is also a webinar presenting the main themes of the report and seeking community input on February 22, 2022, from 1-3 PM ET. More information and registration are available &lt;a href=&quot;https://multisectordynamics.org/community-webinar/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2022/02/msd-vision-report/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/02/msd-vision-report/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Climate Risk Management Paper Published in Annual Reviews</title>
-        <description>&lt;p&gt;We have a new paper with &lt;a href=&quot;https://personal.ems.psu.edu/~kzk10/&quot; target=&quot;_blank&quot;&gt;Klaus Keller&lt;/a&gt; and &lt;a href=&quot;https://sites.google.com/site/caseyhelgeson/&quot; target=&quot;_blank&quot;&gt;Casey Helgeson&lt;/a&gt; in the &lt;a href=&quot;https://doi.org/10.1146/annurev-earth-080320-055847&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Annual Review of Earth and Planetary Sciences&lt;/em&gt;&lt;/a&gt;. We review several key challenges in decision-relevant climate risk management research, including:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;linking the required disciplines;&lt;/li&gt;
-  &lt;li&gt;identifying relevant values and objectives;&lt;/li&gt;
-  &lt;li&gt;identifying and quantifying important uncertainties;&lt;/li&gt;
-  &lt;li&gt;resolving interactions between decision levers and the system dynamics;&lt;/li&gt;
-  &lt;li&gt;quantifying the trade-offs between diverse values under deep and dynamic uncertainties;&lt;/li&gt;
-  &lt;li&gt;communicating key information with decision-makers; and&lt;/li&gt;
-  &lt;li&gt;linking decision-making needs to research design and execution.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We then describe avenues for overcoming these challenges to enable &lt;a href=&quot;https://doi.org/10.1002/9781119067825.ch10&quot; target=&quot;_blank&quot;&gt;not only doing the science right, but doing the right science&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2021/05/climate-risk-published/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2021/05/climate-risk-published/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Papers</category>
-        
-      </item>
-    
-      <item>
-        <title>New Paper in Nature on Social Cost of Methane</title>
-        <description>&lt;p&gt;We have a paper (with &lt;a href=&quot;https://cpree.princeton.edu/people/frank-errickson&quot; target=&quot;_blank&quot;&gt;Frank Errickson&lt;/a&gt;, &lt;a href=&quot;https://personal.ems.psu.edu/~kzk10/&quot; target=&quot;_blank&quot;&gt;Klaus Keller&lt;/a&gt;, &lt;a href=&quot;https://eesa.lbl.gov/profiles/william-collins/&quot; target=&quot;_blank&quot;&gt;William Collins&lt;/a&gt;, and &lt;a href=&quot;https://www.david-anthoff.com/&quot; target=&quot;_blank&quot;&gt;David Anthoff&lt;/a&gt; published today in &lt;a href=&quot;https://dx.doi.org/10.1038/s41586-021-03386-6&quot; target=&quot;_blank&quot;&gt;Nature&lt;/a&gt; on the social cost of methane (SC-CH&lt;sub&gt;4&lt;/sub&gt;). The social cost of a greenhouse gas quantifies the net present value of emitting a unit amount of the gas (in this case, methane) into the atmosphere. This cost enables cost-benefit analyses of regulations proposing changes to limits on their emissions, which are a required part of the regulatory process.&lt;/p&gt;
-
-&lt;p&gt;We show how several factors influence estimates of the SC-CH&lt;sub&gt;4&lt;/sub&gt;, including how:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;accounting for climate-system uncertainty by calibrating a climate model to historical observations results in a decreased estimate compared to that used by the US government, partially due to nonlinear relationships between uncertainties related to temperature dynamics;&lt;/li&gt;
-  &lt;li&gt;the sensitivity of SC-CH&lt;sub&gt;4&lt;/sub&gt; to scenarios of future warming is of a comparable magnitude to that resulting from different discount rates;&lt;/li&gt;
-  &lt;li&gt;the SC-CH&lt;sub&gt;4&lt;/sub&gt; estimates vary little when different climate models are used, but show large sensitivities to the choice of damage function (which is usually the most contentious part of any monetized climate impacts analysis); and&lt;/li&gt;
-  &lt;li&gt;the use of equity-weighting instead of constant discount rates results in large increases in the SC-CH&lt;sub&gt;4&lt;/sub&gt; for wealthier regions such as the US compared to regions which consume less, justifying higher mitigation expenditures in high-income countries, and these increases dwarf the decreases from climate uncertainties.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The paper is not open access, but the News and Views perspective is available &lt;a href=&quot;https://www.nature.com/articles/d41586-021-00972-6&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2021/04/social-cost-methane-nature-published/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2021/04/social-cost-methane-nature-published/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Papers</category>
-        
-      </item>
-    
-      <item>
-        <title>Paper Published in Philosophy of Science on Model Simplicty and the Epistemic Value of Uncertainty</title>
-        <description>&lt;p&gt;We have a new paper in &lt;a href=&quot;https://doi.org/10.1086/711501&quot; target=&quot;_blank&quot;&gt;Philosophy of Science&lt;/a&gt; with &lt;a href=&quot;https://sites.google.com/site/caseyhelgeson/&quot; target=&quot;_blank&quot;&gt;Casey Helgeson&lt;/a&gt;, &lt;a href=&quot;https://personal.ems.psu.edu/~kzk10/&quot; target=&quot;_blank&quot;&gt;Klaus Keller&lt;/a&gt;, and &lt;a href=&quot;https://philosophy.la.psu.edu/people/nat3/&quot; target=&quot;_blank&quot;&gt;Nancy Tuana&lt;/a&gt;. We discuss the epistemic value of simplicity as a property of models and the relevance of model simplicity for informing decision-making under uncertainty.&lt;/p&gt;
-
-&lt;p&gt;A preprint is available &lt;a href=&quot;https://philpapers.org/rec/HELWSC-3&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2021/04/simple-model-epistemic-value-uncertainty-published/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2021/04/simple-model-epistemic-value-uncertainty-published/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Papers</category>
-        
-      </item>
-    
-      <item>
-        <title>New Paper in Environmental Modeling &amp; Software</title>
-        <description>&lt;p&gt;Our new paper (with &lt;a href=&quot;https://personal.ems.psu.edu/~kzk10/&quot; target=&quot;_blank&quot;&gt;Klaus Keller&lt;/a&gt;) has been published in &lt;a href=&quot;https://doi.org/10.1016/j.envsoft.2021.104978&quot; target=&quot;_blank&quot;&gt;Environmental Modeling &amp;amp; Software&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Using a perfect model experiment, we demonstrate how small increases in agent-based model complexity can result in large differences in the data required to calibrate the model, as well as identifying the correct (in this case, the data-generating) model structure. This result emphasizes the importance of treating model structural uncertainty as a deep uncertainty, rather than committing to a particular parameterization. It also demonstrates the importance of leveraging multiple independent sources of information to construct sound and informative prior distributions.&lt;/p&gt;
-
-&lt;p&gt;The paper is open-access, and there is &lt;a href=&quot;https://arxiv.org/abs/1811.08524&quot; target=&quot;_blank&quot;&gt;a preprint&lt;/a&gt; available as well.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2021/02/abm-paper-published/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2021/02/abm-paper-published/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Papers</category>
-        
-      </item>
-    
-      <item>
         <title>Postdoctoral Position Available</title>
         <description>&lt;p&gt;Cornell BEE is &lt;a href=&quot;https://academicjobsonline.org/ajo/jobs/17811&quot; target=&quot;_blank&quot;&gt;advertising&lt;/a&gt; for a postdoc! The position is part of a USDA-funded, interdisciplinary team looking at agricultural-to-energy transitions in New York State. The postdoc will be co-supervised by &lt;a href=&quot;https://blogs.cornell.edu/anderson1/&quot; target=&quot;_blank&quot;&gt;Lindsay Anderson&lt;/a&gt;, &lt;a href=&quot;https://blogs.cornell.edu/steinschneider/&quot; target=&quot;_blank&quot;&gt;Scott Steinschneider&lt;/a&gt;, and myself, and will have the opportunity to interact widely with other faculty.&lt;/p&gt;
 
@@ -197,27 +65,6 @@
         
         
         <category>Openings</category>
-        
-      </item>
-    
-      <item>
-        <title>Joining Cornell BEE</title>
-        <description>&lt;p&gt;After several years at Penn State’s &lt;a href=&quot;https://eesi.psu.edu&quot; target=&quot;_blank&quot;&gt;Earth and Environmental Systems Institute&lt;/a&gt;, I’m excited to announce that I will be joining Cornell’s &lt;a href=&quot;https://bee.cals.cornell.edu&quot; target=&quot;_blank&quot;&gt;Department of Biological &amp;amp; Environmental Engineering&lt;/a&gt; as an assistant professor in July 2021. Throughout my interactions with the faculty (and some students) at BEE, I’ve been impressed with their collegiality and friendliness, not to mention the quality of their research.&lt;/p&gt;
-
-&lt;p&gt;My group at Cornell will work on understanding the impacts of dynamic environmental hazards, particularly those influenced by climate change, on infrastructure resilience and performance. The broad goal is to provide decision support for the management of infrastructure systems under deep climate, technological, and socioeconomic uncertainty. I’m particularly interested in (i) understanding the impact of climate change on electric power system operations, (ii) developing strategies for managing flood risk, and (iii) quantifying the interactions between the human, built, and natural systems, and how these feedbacks and decisions affect system dynamics. Please &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;contact me&lt;/a&gt; if this seems interesting to you!&lt;/p&gt;
-
-&lt;p&gt;Leaving Penn State is definitely bittersweet. I’ve been lucky to call State College home, and I’ve had the opportunity to work on some very fun projects with an incredible and intellectually diverse team. I can only hope to reproduce this environment in my own research group.&lt;/p&gt;
-
-&lt;p&gt;I’ll be affiliated with BEE immediately as a visiting assistant professor.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
-        <link>https://andersonenergylab-cornell.github.io/2020/09/join-cornell/</link>
-        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2020/09/join-cornell/</guid>
-        
-        <category>news</category>
-        
-        
-        <category>Announcements</category>
         
       </item>
     
