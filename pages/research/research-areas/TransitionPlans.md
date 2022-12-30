@@ -1,6 +1,6 @@
 ---
 title: Analysis of Grid Transitions
-image: /assets/img/research/renewable_storage.jpg
+image: /assets/img/research/Renewable_storage.jpg
 order: 1
 ---
 
