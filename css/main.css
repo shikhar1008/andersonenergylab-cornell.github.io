@@ -4,7 +4,7 @@
  */
 .site-header {
   border-top: 0px solid black;
-  border-bottom: 4px solid #b31b1b;
+  border-bottom: 4px solid #50068d;
   min-height: 56px;
   background: #222222;
   position: relative;
@@ -76,23 +76,23 @@
   letter-spacing: 0;
   line-height: 1.2em;
   padding: 4px 10px;
-  color: #b31b1b;
+  color: #50068d;
 }
 
 .site-nav .sub-menu a:hover {
-  color: #b31b1b;
+  color: #50068d;
 }
 
 .site-nav .sub-menu {
   background: #f7f7f7;
-  border-color: #b31b1b;
+  border-color: #50068d;
   min-width: 265px;
   z-index: 2147483647;
 }
 
 .site-nav .sub-menu li.current-menu-item > a {
-  border-left-color: #b31b1b;
-  border-right-color: #b31b1b;
+  border-left-color: #50068d;
+  border-right-color: #50068d;
   border-right: 0px;
 }
 
@@ -182,7 +182,7 @@
   .site-nav .page-link {
     display: block;
     padding: 5px 10px;
-    color: #b31b1b;
+    color: #50068d;
   }
 }
 
@@ -198,7 +198,7 @@
     white-space: nowrap;
   }
   .site-nav .menu {
-    border: 3px solid #b31b1b;
+    border: 3px solid #50068d;
     border-top: 3px solid transparent;
     /* bg and border colors set in header */
     -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.8);
@@ -220,11 +220,11 @@
   .site-nav .menu li {
     display: block;
     margin: 0;
-    color: #b31b1b;
+    color: #50068d;
   }
   .site-nav ul.menu a {
     background: #f7f7f7;
-    color: #b31b1b;
+    color: #50068d;
   }
   .site-nav a,
   .site-nav li.current-menu-item > a {
@@ -338,7 +338,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #b31b1b;
+  color: #50068d;
   text-decoration: none;
 }
 a:visited {
@@ -569,7 +569,7 @@ h1 {
   letter-spacing: -1px;
   line-height: 1;
   font-family: "Mulish", sans-serif;
-  color: #b31b1b;
+  color: #50068d;
 }
 @media screen and (max-width: 950px) {
   h1 {
@@ -716,7 +716,7 @@ article ul#archive > li:before {
 }
 
 .archivelink a:link {
-  color: #b31b1b;
+  color: #50068d;
 }
 
 /* ul#archive li span {
@@ -883,7 +883,7 @@ background-color:#3d3535;
 .wp-caption {
   background-color: #f3f3f3;
   text-align: center;
-  border: 1px dotted #b31b1b;
+  border: 1px dotted #50068d;
   font-size: 0.9em;
   overflow: hidden;
   position: relative;
