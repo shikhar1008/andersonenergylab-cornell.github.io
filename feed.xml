@@ -6,8 +6,8 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Dec 2022 16:52:05 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Dec 2022 16:52:05 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Dec 2022 16:53:23 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Dec 2022 16:53:23 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
@@ -18,6 +18,22 @@
         <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</link>
         <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/10/ShriyaArticle/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>New paper on NYS grid</title>
+        <description>&lt;p&gt;Vivienne Liu’s recent article develops a synthetic but realistic repressentation for the NYS electric grid with publicly available data. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/abstract/document/9866561&quot;&gt;IEEE Transactions on Power Systems&lt;/a&gt;.
+The model and data can be found in &lt;a href=&quot;https://github.com/AndersonEnergyLab-Cornell/NYgrid&quot;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2022/08/NYSgridpaper/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2022/08/NYSgridpaper/</guid>
         
         <category>news</category>
         
