@@ -2,6 +2,6 @@
 	path = _bibliography
 	url = https://github.com/vsrikrish/bibliography.git
 	branch = main
-[submodule "bibliography"]
-	path = bibliography
+[submodule "_bib"]
+	path = _bib
 	url = https://github.com/AndersonEnergyLab-Cornell/bibliography
