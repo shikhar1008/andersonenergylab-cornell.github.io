@@ -6,9 +6,24 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Dec 2022 21:19:36 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Dec 2022 21:19:36 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Jan 2023 01:53:15 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2023 01:53:15 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Vivienne Liu presents at HICSS 56</title>
+        <description>&lt;p&gt;Vivienne Liu presented her conference paper A Spatiotemporal Analysis of New York State Grid Transition under the CLCPA Energy Strategy at the 56th HICSS Conference on Maui. &lt;a href=&quot;https://scholarspace.manoa.hawaii.edu/items/bd07c47b-4888-4e7f-8f49-ad292181f378&quot;&gt;The paper is available here&lt;/a&gt;.   Congrats to Vivienne on a great presentation and to the whole team (including Amandeep Gupta and Kenji Doering) on their conference publication!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://andersonenergylab-cornell.github.io/2023/01/VML-HICSS2023/</link>
+        <guid isPermaLink="true">https://andersonenergylab-cornell.github.io/2023/01/VML-HICSS2023/</guid>
+        
+        <category>news</category>
+        
+        
+        <category>papers</category>
+        
+      </item>
     
       <item>
         <title>New paper on robust networks</title>
