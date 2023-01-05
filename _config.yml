@@ -47,11 +47,11 @@ exclude:
 
 scholar:
   style: american-geophysical-union
-  source: _bibliography
+  source: _bib
   bibliography: library.bib
   bibliography_template: bib
   sort_by: date,year,month
   order: descending
   bibliography_list_tag: div
   bibliography_item_tag: div
-  repository: _bibliography
+  repository: _bib
