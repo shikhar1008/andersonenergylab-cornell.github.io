@@ -1,6 +1,6 @@
 ---
 title: "New paper by Alonso Alegre Bravo published in Applied Energy"
-subtitle: "Exploring the influence of multidimensional variables on access to electricity in rural areas of the Global South"
+subtitle: "Exploring the influence of Multidimensional Variables on Access to Electricity in Rural Areas of the Global South"
 author: Lindsay Anderson
 tags: news
 category: papers
