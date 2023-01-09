@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://andersonenergylab-cornell.github.io" # the base hostname & protocol for your site
 github:  andersonenergylab-cornell
-office: 316 Riley-Robb Hall
+office: 106 Riley-Robb Hall
 department: Biological & Environmental Engineering
 city: Ithaca, NY
 zip: 14853-5701
@@ -20,7 +20,7 @@ permalink: /:year/:month/:title/
 excerpt_separator: "<!--more-->"
 
 # logos and images
-logo_group: /assets/img/logos/sea_level_rise_banner.png
+logo_group: /assets/img/logos/test.jpg
 logo_cornell: /assets/img/logos/cornell-reduced-red.svg
 
 # settings for deploy rake task
