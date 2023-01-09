@@ -48,3 +48,19 @@
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
   bio: Katerina Tang is a Ph.D. student at the Center for Applied Mathematics at Cornell. She graduated with a B.A. in Mathematics from Kenyon College in May 2021. Katerina is interested in the development and application of network analysis methods to identify pathways leading to cascading failures in coupled human-Earth systems. Outside of math, Katerina enjoys knitting, climbing, and running.
+
+- first_name: Gerald # your first name
+  last_name: Ogbonna # your last name
+  title: # Mr., Mrs., Ms., Dr., etc
+  anchor: gco27  # allows you to link to a specific person
+  position: Ph.D. Student # your role within the group
+  photo: gerald.png # your photo in /assets/img/members/
+  website:  # URL for your personal website
+  cv:  # URL for your CV -- optional, but recommended
+  email: gco27@cornell.edu
+  github: gco27 # your github user name
+  scholar: KZdqx5AAAAAJ # your google scholar id
+  orcid:  # your orcid id
+  researchgate:  # your researchgate profile name
+  pronouns: he/him/his # your preferred pronouns
+  bio: Gerald is a Ph.D. student in the department of Systems Engineering. He hold's a Bachelor’s degree in Electrical and Electronics Engineering from the Federal University of Technology, Owerri. His research interest is in the area of distributed control and optimization of power systems with significant share of renewable generation. Outside research, Gerald enjoys playing soccer and cycling.
