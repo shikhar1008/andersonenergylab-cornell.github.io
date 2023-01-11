@@ -965,7 +965,8 @@ background-color:#3d3535;
   position: relative;
   text-align: center;
   background: url(/assets/img/logos/sea_level_rise_banner.png) top left no-repeat;
-  object-fit: contain;
+  height: 225px;
+  width: 100%;
 }
 
 /**
