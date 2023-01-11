@@ -965,8 +965,8 @@ background-color:#3d3535;
   position: relative;
   text-align: center;
   background: url(/assets/img/logos/phototest4.jpg) top left no-repeat;
-  width: 900px;
-  height: 300px;
+  width: 100%;
+  height: auto;
   object-fit: contain;
 }
 
