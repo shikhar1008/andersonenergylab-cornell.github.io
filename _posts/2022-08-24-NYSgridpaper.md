@@ -1,5 +1,5 @@
 ---
-title: "New paper on NYS grid"
+title: "Vivienne's paper on the NYS synthetic grid published!"
 subtitle: "An open source representation for the nys electric grid to support power grid and market transition studies"
 author: Vivienne Liu
 tags: news
