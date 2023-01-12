@@ -965,8 +965,8 @@ background-color:#3d3535;
   position: relative;
   text-align: center;
   background: url(/assets/img/logos/SunriseBanner.png) top left no-repeat;
-  height: 400px;
-  width: 150px;
+  height: 250px;
+  width: 100%;
   background-size: contain;
 }
 
