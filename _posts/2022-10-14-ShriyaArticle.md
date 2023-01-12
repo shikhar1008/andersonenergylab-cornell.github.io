@@ -1,5 +1,5 @@
 ---
-title: "New paper on robust networks"
+title: "New paper by Shriya Nagpal!"
 subtitle: "Designing Robust Networks of Coupled Phase-Oscillators with Applications to the High Voltage Electric Grid"
 author: Lindsay Anderson
 tags: news
