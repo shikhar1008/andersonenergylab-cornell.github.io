@@ -6,12 +6,12 @@
 </description>
     <link>https://andersonenergylab-cornell.github.io/</link>
     <atom:link href="https://andersonenergylab-cornell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jan 2023 22:41:19 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2023 22:41:19 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2023 11:38:37 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2023 11:38:37 +0000</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
-        <title>New paper published by Alonso Alegre Bravo!</title>
+        <title>New paper published by Alonso Alegre Bravo</title>
         <description>&lt;p&gt;Alonso’s new paper explores issues of rural electricity access in regions of the Global South.  The article appears in &lt;a href=&quot;https://doi.org/https://doi.org/10.1016/j.apenergy.2022.120509&quot;&gt;Applied Energy&lt;/a&gt;. Congratulations Alonso!&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
@@ -57,7 +57,7 @@
       </item>
     
       <item>
-        <title>Vivienne&apos;s paper on the NYS synthetic grid published!</title>
+        <title>Vivienne&apos;s paper on the NYS synthetic grid published</title>
         <description>&lt;p&gt;Vivienne Liu’s recent article develops a synthetic but realistic repressentation for the NYS electric grid with publicly available data. The article appears in &lt;a href=&quot;https://ieeexplore.ieee.org/abstract/document/9866561&quot;&gt;IEEE Transactions on Power Systems&lt;/a&gt;.
 The model and data can be found in &lt;a href=&quot;https://github.com/AndersonEnergyLab-Cornell/NYgrid&quot;&gt;Github Repository&lt;/a&gt;.&lt;/p&gt;
 </description>
