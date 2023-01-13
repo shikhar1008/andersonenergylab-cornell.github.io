@@ -1,5 +1,5 @@
 ---
-title: "New paper published by Alonso Alegre Bravo!"
+title: "New paper published by Alonso Alegre Bravo"
 subtitle: "Exploring the influence of multidimensional variables on access to electricity in rural areas of the Global South"
 author: Lindsay Anderson
 tags: news
