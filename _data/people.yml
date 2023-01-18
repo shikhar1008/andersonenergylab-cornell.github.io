@@ -66,18 +66,21 @@
   bio: Katerina Tang is a Ph.D. student at the Center for Applied Mathematics at Cornell. She graduated with a B.A. in Mathematics from Kenyon College in May 2021. Katerina is interested in the development and application of network analysis methods to identify pathways leading to cascading failures in coupled human-Earth systems. Outside of math, Katerina enjoys knitting, climbing, and running.
 
 - first_name: Tayler # your first name
- last_name: Fernandes Nunez # your last name
- title:  # Mr., Mrs., Ms., Dr., etc
- anchor: tf223 # allows you to link to a specific person
- position: Ph.D. Student # your role within the group
- photo: Tayler-Bio-Photo.JPG # your photo in /assets/img/members/
- website:  https://linkedin.com/in/tayler-fernandes-nunez-58473b129 # URL for your personal website
- cv:  # URL for your CV -- optional, but recommended
- email: tf223@cornell.edu
- github: Taylerfnunez # your github user name
- scholar:  # your google scholar id
- orcid: 0000-0003-4023-18434 # your orcid id
- researchgate:  # your researchgate profile name
- pronouns: she/her/hers # your preferred pronouns
- bio: Tayler is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interest broadly lies at the intersection of graph theory and optimization in complex networks with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
+  last_name: Fernandes Nunez # your last name
+  title: # Mr., Mrs., Ms., Dr., etc
+  anchor: tf223  # allows you to link to a specific person
+  position: Ph.D. Student # your role within the group
+  photo: Tayler-Bio-Photo.JPG # your photo in /assets/img/members/
+  website: https://linkedin.com/in/tayler-fernandes-nunez-58473b129 # URL for your personal website
+  cv:  # URL for your CV -- optional, but recommended
+  email: tf223@cornell.edu
+  github: Taylerfnunez # your github user name
+  scholar:  # your google scholar id
+  orcid:  0000-0003-4023-18434# your orcid id
+  researchgate:  # your researchgate profile name
+  pronouns: she/her/hers # your preferred pronouns
+  bio: Tayler is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interest broadly lies at the intersection of graph theory and optimization in complex networks with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
+ 
+
+
 
