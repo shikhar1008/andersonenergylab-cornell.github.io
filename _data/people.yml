@@ -64,6 +64,22 @@
   researchgate:  # your researchgate profile name
   pronouns: she/her/hers # your preferred pronouns
   bio: Tayler is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Northeastern University and a post-baccalaureate certificate in Mathematics from Smith College. Her research interest broadly lies at the intersection of graph theory and optimization in complex networks with applications to power systems and other infrastructure networks. Outside of research, Tayler enjoys singing, running, and powerlifting. 
+  
+  - first_name: Shriya # your first name
+  last_name: Nagpal # your last name
+  title: # Mr., Mrs., Ms., Dr., etc
+  anchor: svn23  # allows you to link to a specific person
+  position: Ph.D. Student # your role within the group
+  photo: Shriya_Nagpal.JPG # your photo in /assets/img/members/
+  website: # URL for your personal website
+  cv:  # URL for your CV -- optional, but recommended
+  email: svn23@cornell.edu
+  github: ShriyaNagpal # your github user name
+  scholar: Eut3bFQAAAAJ #your google scholar id
+  orcid:  #your orcid id
+  researchgate:  # your researchgate profile name
+  pronouns: she/her/hers # your preferred pronouns
+  bio: Shriya is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Trinity College. Her research leverages tools from complex networks and dynamical systems to study properties that underpin networks of coupled phase-oscillators. Outside of research, she is passionate about teaching, and has received graduate teaching awards from both the Department of Mathematics (2020) and the Department of Computer Science (2021) at Cornell University.
  
 
 
