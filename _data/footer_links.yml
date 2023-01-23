@@ -1,9 +1,9 @@
-- name: Lab Manual
-  href: https://srikrishnan-lab.github.io/lab-manual
-  category: 0-group
+- #name: Lab Manual
+  #href: https://srikrishnan-lab.github.io/lab-manual
+  #category: 0-group
 
 - name: Github
-  href: https://github.com/srikrishnan-lab
+  href: https://github.com/AndersonEnergyLab-Cornell
   category: 1-social
 
 - name: Cornell BEE
