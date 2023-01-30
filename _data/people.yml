@@ -98,4 +98,18 @@
   pronouns: she/her/hers # your preferred pronouns
   bio: Shriya is a Ph.D. student at the Center for Applied Mathematics. Prior to joining Cornell, she received her Bachelor’s degree in Mathematics from Trinity College. Her research leverages tools from complex networks and dynamical systems to study properties that underpin networks of coupled phase-oscillators. Outside of research, she is passionate about teaching, and has received graduate teaching awards from both the Department of Mathematics (2020) and the Department of Computer Science (2021) at Cornell University.
 
-
+- first_name: Alonso # your first name
+  last_name: Alegre-Bravo # your last name
+  title: # Mr., Mrs., Ms., Dr., etc
+  anchor: aa2683 # allows you to link to a specific person
+  position: Ph.D. Student # your role within the group
+  photo:  Alonso.jpg # your photo in /assets/img/members/
+  website:  # URL for your personal website
+  cv:  # URL for your CV -- optional, but recommended
+  email: aa2683@cornell.edu
+  github: # your github user name
+  scholar:  TvyMe3QAAAAJ&hl # your google scholar id
+  orcid:  # your orcid id
+  researchgate:  # your researchgate profile name
+  pronouns: he/him/his # your preferred pronouns
+  bio: Alonso is a Ph.D. student in Biological and Environmental Engineering and a Fulbright scholar. Before arriving to Cornell, he worked on rural electrification projects in Latin America. His research focuses on finding ways to improve access to electricity policies in Latin America and the Caribbean. He holds a M.Sc. in Sustainable Energy Development from the University of Calgary and Bachelor’s degree in Electro-mechanical Engineering from the Instituto Tecnologico de Costa Rica. In his free time, he enjoys to play tennis, being in the nature, and karaoke. 
