@@ -2,7 +2,7 @@
 title: Anderson Research Group @ Cornell University
 email: cla28@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website for the Srikrishnan Research Group at Cornell BEE. We study the impact of dynamic environmental hazards, particularly those intensified by climate change, on infrastructure performance and management. We are interested in a broad range of applications.
+  This is the website for the Anderson Research Team at Cornell, where we investigate decarbonization of energy systems through renewable resources and demand side technologies. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://andersonenergylab-cornell.github.io" # the base hostname & protocol for your site
 github:  andersonenergylab-cornell
